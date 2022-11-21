@@ -1,0 +1,25 @@
+.navBar {
+  display: flex;
+  background-color: lightskyblue;
+  border-bottom: 1px solid dimgray;
+}
+
+.title {
+  margin: 1rem;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.navBar nav {
+  display: inline-block;
+}
+
+.navBar ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.navBar li {
+  display: inline-block;
+  margin: 0.5rem;
+}
